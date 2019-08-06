@@ -1,0 +1,9 @@
+admin:
+admin@admin.com
+123456
+
+buyer:
+susana@gmail.com
+123456
+
+by anthoncode
